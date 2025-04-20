@@ -1,4 +1,4 @@
-# System Information Web Application
+# System Information Web Application for Morhple Labs Inc
 
 This Flask application displays system information including:
 - Your full name
